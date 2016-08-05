@@ -1,0 +1,10 @@
+C:\KeyboardEnabledControls\Infrastructure\bin\Debug\Infrastructure.dll
+C:\KeyboardEnabledControls\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\KeyboardEnabledControls\Infrastructure\obj\Debug\ResolveAssemblyReference.cache
+C:\KeyboardEnabledControls\Infrastructure\obj\Debug\Infrastructure.dll
+C:\KeyboardEnabledControls\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Develop Tools\KeyboardEnabledControls\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Develop Tools\KeyboardEnabledControls\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Develop Tools\KeyboardEnabledControls\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Develop Tools\KeyboardEnabledControls\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Develop Tools\KeyboardEnabledControls\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache

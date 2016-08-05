@@ -1,0 +1,15 @@
+03:47 Test CmdKey to search None KeyCode
+03:47 Test False False False End NOT Found!
+05:19 Test CmdKey to search None KeyCode
+05:19 Test False False False End NOT Found!
+06:47 Test CmdKey to search None End
+06:47 Test False False False End Found!
+17:47 Test CmdKey to search None End
+17:47 Test False False False End Found!
+Forcing Close()18:51 Test CmdKey to search None End
+18:51 Test False False False End Found!
+Forcing Close()48:02 Test CmdKey to search None End
+48:02 Test False False False End Found!
+Forcing Close()49:20 Test CmdKey to search None End
+49:20 Test False False False End Found!
+Forcing Close()
